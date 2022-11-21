@@ -1,0 +1,1 @@
+powershell -executionpolicy bypass -command "Remove-VpnConnection -Name 'PPTP CMD' -Force"

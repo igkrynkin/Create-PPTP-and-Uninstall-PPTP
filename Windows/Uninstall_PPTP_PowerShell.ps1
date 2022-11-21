@@ -1,0 +1,1 @@
+Remove-VpnConnection -Name "PPTP PS" -Force
